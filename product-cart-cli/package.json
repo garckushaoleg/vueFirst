@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "@vue/cli": "^4.5.15"
+  },
+  "devDependencies": {
+    "sass": "^1.49.0",
+    "sass-loader": "^12.4.0",
+    "webpack": "^5.67.0"
+  }
+}
